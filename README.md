@@ -5,12 +5,13 @@ The News App is a Flutter-based mobile application designed to provide users wit
 
 ## Preview 
 
-<img src="https://github.com/user-attachments/assets/65fff0e4-5a52-4390-a5c7-09f9d1dc2928" alt="Screenshot" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/d76dced8-9146-417c-a5bf-95b6f5cfe83a" alt="Screenshot" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/603b7681-bf47-40eb-9fe9-186c901ae12d" alt="Screenshot" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/a4b74068-975e-409f-be72-49fd8dad86e0" alt="Screenshot" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/b0fa93c6-eec2-4d63-b000-395d70d9b24b" alt="Screenshot" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/04c86f7a-3c7d-436b-b24f-f47104c56045" alt="Screenshot" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/65fff0e4-5a52-4390-a5c7-09f9d1dc2928" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/d76dced8-9146-417c-a5bf-95b6f5cfe83a" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/603b7681-bf47-40eb-9fe9-186c901ae12d" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/a4b74068-975e-409f-be72-49fd8dad86e0" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/b0fa93c6-eec2-4d63-b000-395d70d9b24b" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/04c86f7a-3c7d-436b-b24f-f47104c56045" alt="Screenshot" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/3eacc04c-4bc6-4239-8395-78745479bbfe" alt="Screenshot" width="20%" height="20%" />
 
 
 ## Features
