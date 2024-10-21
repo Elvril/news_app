@@ -2,6 +2,8 @@
 
 The News App is a Flutter-based mobile application designed to provide users with quick access to the latest news articles from a variety of categories. The app features an intuitive interface that allows users to navigate seamlessly through different news topics and search for articles with ease. It fetches data from the [News API](https://newsapi.org), a powerful API that aggregates news articles from various sources worldwide.
 
+## link to Download the App
+- link: https://drive.google.com/file/d/1_GibhyBed2mOY1525a4xdshxBC5Ufkyh/view?usp=sharing 
 
 ## Preview 
 
